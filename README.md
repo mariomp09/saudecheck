@@ -47,7 +47,7 @@ O projeto foi estruturado seguindo rigorosamente os princípios da **Clean Archi
 ## 📦 Distribuição e Testes (APK)
 Para facilitar a avaliação prática imediata pelos jurados sem a necessidade de compilar o código fonte no Android Studio, a versão de produção compilada (`.apk`) está disponível para descarregamento direto:
 
-🔗 **[Descarregar o APK Oficial do SaúdeCheck (MediaFire)]([COLOQUE_AQUI_O_LINK_DO_MEDIAFIRE](https://www.mediafire.com/file/61skz6iaqw1sovb/Sa%25C3%25BAdeCheck_1.0.apk/file))**
+🔗 **[Descarregar o APK Oficial do SaúdeCheck (MediaFire)]([COLOQUE_AQUI_O_LINK_DO_MEDIAFIRE) (https://www.mediafire.com/file/61skz6iaqw1sovb/Sa%25C3%25BAdeCheck_1.0.apk/file))**
 
 ---
 
