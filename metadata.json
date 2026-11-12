@@ -1,0 +1,6 @@
+{
+  "name": "SaúdeCheck",
+  "description": "Assistente virtual educativo de triagem de saúde para análise responsável de sintomas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
